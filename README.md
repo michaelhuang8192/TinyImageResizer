@@ -12,6 +12,12 @@ A small tool that can help you to resize a batch of images easily
   * WxPython
   * Python Imaging Library (PIL)
   
+
+# Quickstart
+* C# / C++ Version - Compile with VC, then run the compiled executable beside libgd.dll.
+* Python Version - Install all requirements, then run the python script.
+
+
 # Binary
 Check /bin
 
